@@ -1,9 +1,9 @@
 [
   {
     "full_name": "heartcombo/devise",
-    "stargazers_count": 21869,
+    "stargazers_count": 21876,
     "open_issues_count": 145,
-    "forks_count": 5278
+    "forks_count": 5279
   },
   {
     "full_name": "mariannnne/BodyMapItem_Online",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-sb-admin-2",
-    "stargazers_count": 8935,
+    "stargazers_count": 8938,
     "open_issues_count": 57,
-    "forks_count": 5393
+    "forks_count": 5397
   },
   {
     "full_name": "jfloff/docker-heroku-rails",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15745,
+    "stargazers_count": 15750,
     "open_issues_count": 56,
-    "forks_count": 3405
+    "forks_count": 3408
   },
   {
     "full_name": "dokku/dokku",
-    "stargazers_count": 21841,
-    "open_issues_count": 36,
+    "stargazers_count": 21846,
+    "open_issues_count": 39,
     "forks_count": 1679
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "formtastic/formtastic",
-    "stargazers_count": 5132,
+    "stargazers_count": 5131,
     "open_issues_count": 13,
     "forks_count": 636
   },
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "thomaspark/bootswatch",
-    "stargazers_count": 13123,
-    "open_issues_count": 10,
-    "forks_count": 3552
+    "stargazers_count": 13132,
+    "open_issues_count": 9,
+    "forks_count": 3553
   },
   {
     "full_name": "dimitri/pgloader",
-    "stargazers_count": 3549,
+    "stargazers_count": 3554,
     "open_issues_count": 199,
     "forks_count": 408
   },
   {
     "full_name": "resque/resque",
-    "stargazers_count": 8967,
+    "stargazers_count": 8966,
     "open_issues_count": 57,
-    "forks_count": 1620
+    "forks_count": 1621
   },
   {
     "full_name": "javan/whenever",
-    "stargazers_count": 8502,
+    "stargazers_count": 8503,
     "open_issues_count": 84,
-    "forks_count": 707
+    "forks_count": 708
   },
   {
     "full_name": "ejholmes/active_admin_editor",
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "sitaramc/gitolite",
-    "stargazers_count": 7964,
+    "stargazers_count": 7979,
     "open_issues_count": 5,
     "forks_count": 994
   },
   {
     "full_name": "activeadmin/activeadmin",
-    "stargazers_count": 9045,
-    "open_issues_count": 378,
-    "forks_count": 3230
+    "stargazers_count": 9046,
+    "open_issues_count": 380,
+    "forks_count": 3227
   },
   {
     "full_name": "rails-api/rails-api",
-    "stargazers_count": 5206,
+    "stargazers_count": 5205,
     "open_issues_count": 13,
     "forks_count": 293
   },
