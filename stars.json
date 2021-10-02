@@ -1,9 +1,9 @@
 [
   {
     "full_name": "heartcombo/devise",
-    "stargazers_count": 21921,
+    "stargazers_count": 21930,
     "open_issues_count": 146,
-    "forks_count": 5303
+    "forks_count": 5300
   },
   {
     "full_name": "mariannnne/BodyMapItem_Online",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-agency",
-    "stargazers_count": 1782,
+    "stargazers_count": 1784,
     "open_issues_count": 0,
-    "forks_count": 3057
+    "forks_count": 3058
   },
   {
     "full_name": "StartBootstrap/startbootstrap-sb-admin-2",
-    "stargazers_count": 8956,
+    "stargazers_count": 8959,
     "open_issues_count": 59,
-    "forks_count": 5443
+    "forks_count": 5446
   },
   {
     "full_name": "jfloff/docker-heroku-rails",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15772,
+    "stargazers_count": 15777,
     "open_issues_count": 58,
-    "forks_count": 3404
+    "forks_count": 3403
   },
   {
     "full_name": "dokku/dokku",
-    "stargazers_count": 21917,
-    "open_issues_count": 47,
-    "forks_count": 1683
+    "stargazers_count": 21930,
+    "open_issues_count": 48,
+    "forks_count": 1685
   },
   {
     "full_name": "FarmBot-Labs/mqtt-gateway",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "formtastic/formtastic",
-    "stargazers_count": 5136,
+    "stargazers_count": 5138,
     "open_issues_count": 13,
-    "forks_count": 636
+    "forks_count": 635
   },
   {
     "full_name": "morgoth/alexa",
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "thomaspark/bootswatch",
-    "stargazers_count": 13162,
+    "stargazers_count": 13168,
     "open_issues_count": 10,
     "forks_count": 3556
   },
   {
     "full_name": "dimitri/pgloader",
-    "stargazers_count": 3614,
-    "open_issues_count": 207,
-    "forks_count": 419
+    "stargazers_count": 3631,
+    "open_issues_count": 208,
+    "forks_count": 422
   },
   {
     "full_name": "resque/resque",
-    "stargazers_count": 8970,
+    "stargazers_count": 8972,
     "open_issues_count": 55,
-    "forks_count": 1621
+    "forks_count": 1622
   },
   {
     "full_name": "javan/whenever",
-    "stargazers_count": 8507,
+    "stargazers_count": 8509,
     "open_issues_count": 85,
     "forks_count": 708
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "sitaramc/gitolite",
-    "stargazers_count": 7989,
+    "stargazers_count": 7991,
     "open_issues_count": 6,
-    "forks_count": 1000
+    "forks_count": 1001
   },
   {
     "full_name": "activeadmin/activeadmin",
     "stargazers_count": 9054,
     "open_issues_count": 381,
-    "forks_count": 3228
+    "forks_count": 3230
   },
   {
     "full_name": "rails-api/rails-api",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "restforce/restforce",
-    "stargazers_count": 699,
-    "open_issues_count": 123,
-    "forks_count": 305
+    "stargazers_count": 700,
+    "open_issues_count": 124,
+    "forks_count": 306
   }
 ]
