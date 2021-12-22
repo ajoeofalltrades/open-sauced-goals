@@ -1,9 +1,9 @@
 [
   {
     "full_name": "heartcombo/devise",
-    "stargazers_count": 22039,
-    "open_issues_count": 150,
-    "forks_count": 5321
+    "stargazers_count": 22091,
+    "open_issues_count": 168,
+    "forks_count": 5337
   },
   {
     "full_name": "mariannnne/BodyMapItem_Online",
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "StartBootstrap/startbootstrap-agency",
-    "stargazers_count": 1800,
+    "stargazers_count": 1810,
     "open_issues_count": 1,
-    "forks_count": 3066
+    "forks_count": 3068
   },
   {
     "full_name": "StartBootstrap/startbootstrap-sb-admin-2",
-    "stargazers_count": 9012,
+    "stargazers_count": 9042,
     "open_issues_count": 64,
-    "forks_count": 5485
+    "forks_count": 5505
   },
   {
     "full_name": "jfloff/docker-heroku-rails",
@@ -45,25 +45,25 @@
     "full_name": "jmtyszka/bidskit",
     "stargazers_count": 48,
     "open_issues_count": 13,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "uwmadison-chm/bioread",
-    "stargazers_count": 47,
-    "open_issues_count": 2,
+    "stargazers_count": 48,
+    "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "rubocop/ruby-style-guide",
-    "stargazers_count": 15820,
-    "open_issues_count": 59,
-    "forks_count": 3416
+    "stargazers_count": 15841,
+    "open_issues_count": 58,
+    "forks_count": 3423
   },
   {
     "full_name": "dokku/dokku",
-    "stargazers_count": 22082,
-    "open_issues_count": 46,
-    "forks_count": 1698
+    "stargazers_count": 22158,
+    "open_issues_count": 59,
+    "forks_count": 1701
   },
   {
     "full_name": "FarmBot-Labs/mqtt-gateway",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "FarmBot/Farmbot-Web-App",
-    "stargazers_count": 764,
-    "open_issues_count": 58,
-    "forks_count": 282
+    "stargazers_count": 767,
+    "open_issues_count": 59,
+    "forks_count": 285
   },
   {
     "full_name": "activeadmin/inherited_resources",
-    "stargazers_count": 2683,
-    "open_issues_count": 13,
-    "forks_count": 379
+    "stargazers_count": 2687,
+    "open_issues_count": 8,
+    "forks_count": 386
   },
   {
     "full_name": "formtastic/formtastic",
-    "stargazers_count": 5144,
-    "open_issues_count": 16,
-    "forks_count": 638
+    "stargazers_count": 5150,
+    "open_issues_count": 18,
+    "forks_count": 637
   },
   {
     "full_name": "morgoth/alexa",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "thomaspark/bootswatch",
-    "stargazers_count": 13266,
-    "open_issues_count": 20,
-    "forks_count": 3577
+    "stargazers_count": 13314,
+    "open_issues_count": 18,
+    "forks_count": 3587
   },
   {
     "full_name": "dimitri/pgloader",
-    "stargazers_count": 3723,
-    "open_issues_count": 217,
-    "forks_count": 426
+    "stargazers_count": 3755,
+    "open_issues_count": 219,
+    "forks_count": 434
   },
   {
     "full_name": "resque/resque",
-    "stargazers_count": 9003,
-    "open_issues_count": 55,
-    "forks_count": 1631
+    "stargazers_count": 9034,
+    "open_issues_count": 59,
+    "forks_count": 1632
   },
   {
     "full_name": "javan/whenever",
-    "stargazers_count": 8530,
-    "open_issues_count": 86,
-    "forks_count": 710
+    "stargazers_count": 8542,
+    "open_issues_count": 88,
+    "forks_count": 712
   },
   {
     "full_name": "ejholmes/active_admin_editor",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "sitaramc/gitolite",
-    "stargazers_count": 8010,
+    "stargazers_count": 8023,
     "open_issues_count": 6,
     "forks_count": 1001
   },
   {
     "full_name": "activeadmin/activeadmin",
-    "stargazers_count": 9080,
-    "open_issues_count": 390,
-    "forks_count": 3240
+    "stargazers_count": 9096,
+    "open_issues_count": 392,
+    "forks_count": 3247
   },
   {
     "full_name": "rails-api/rails-api",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "restforce/restforce",
-    "stargazers_count": 709,
-    "open_issues_count": 127,
-    "forks_count": 310
+    "stargazers_count": 710,
+    "open_issues_count": 125,
+    "forks_count": 312
   }
 ]
